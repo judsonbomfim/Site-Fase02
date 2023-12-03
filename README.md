@@ -8,5 +8,5 @@ Algumas das funções:
 - Cadastro de clientes
 - Cadastro de pets
 - Formulário de contato
-- Contatos da emprea
+- Contatos da empresa
 - Rede sociais
